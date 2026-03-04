@@ -618,6 +618,7 @@ results <- foreach(layer = all_sheets, .combine = c) %:%
 stopCluster(cl)
 end4 <- Sys.time()
 end4 - start4 # ~ 18 min
+```
 
 ```r
 start5 <- Sys.time()
