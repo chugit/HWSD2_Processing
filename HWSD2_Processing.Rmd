@@ -1,6 +1,5 @@
 ---
 title: "HWSD2_Processing"
-author: "CHU Juncong"
 date: "2026-3-4"
 output:
   html_notebook: 
@@ -705,3 +704,4 @@ stopCluster(cl)
 end6 <- Sys.time()
 end6 - start6 # ~ 31 min
 ```
+
